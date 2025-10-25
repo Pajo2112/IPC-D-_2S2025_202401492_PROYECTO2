@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/vista/AdminPanel.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/utiles/SystemMonitor.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/vista/MainWindow.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/vista/VendedoresPanel.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/vista/LOGIN.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/modelo/Product.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/vista/ProductsPanel.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/modelo/User.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/vista/VendedorPanel.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/utiles/CSVUtil.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/vista/ClientePanel.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/controlador/MainController.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/modelo/Carrito.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/vista/LoginPanel.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/vista/Usuers.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/modelo/Pedido.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/utiles/Bitacora.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/modelo/DataStore.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/utiles/AutoSaveThread.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/vista/UsersPanel.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/utiles/PDFGenerator.java</file>
+            <file>file:/C:/Users/Pavel/OneDrive/Escritorio/IPCD_202401492_PROYECTO2/Proyecto2/src/com/proyecto2/Main.java</file>
+        </group>
+    </open-files>
+</project-private>
